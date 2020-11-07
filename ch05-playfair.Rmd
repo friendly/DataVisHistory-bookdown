@@ -1,0 +1,44 @@
+# The Big Bang: William Playfair, the Father of Modern Graphics {#ch05-playfair}
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+
+At the beginning of the 19th Century, nearly all of the modern forms of data graphics--- the pie chart, the line graph of a time series, and the bar chart--- were invented. These key developments were all due to a wily Scot named William Playfair. He can rightly be called the father of modern graphical methods, and it is only a slight stretch to consider his contributions to be the Big Bang of data graphics. 
+```
+
+## An Introduction to William Playfair {#sec:playfair-intro}
+
+## Playfair's graphic contributions {#sec:playfair-contributions}
+
+## The First Pie {#sec:playfair-pie}
+
+### Humble pie {-}
+
+### So, what are pies good for? {-}
+
+## Time-series line graphs {#sec:playfair-time-series}
+
+### Trade between England and Germany: 1700--1800 {-}
+
+### Trade between England and France: 1700--1800 {-}
+
+### Playfair's failure: Problems with curve-difference charts {-}
+
+### England's National Debt: 1688--1800 {-}
+
+## Bar charts {#sec:playfair-bar-charts}
+
+### Earlier bar charts {-}
+
+## Charts of history {#sec:playfair-history}
+
+### Sparklines {-}
+
+### Joyplots, a.k.a. ridgeline plots {-}
+
+## Why Playfair? {#sec:playfair-why}
+
+### Playfair's legacy {-}
+
+## Learning more 
+

@@ -1,0 +1,34 @@
+# The Golden Age of Statistical Graphics {#ch07-golden}
+
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+In the latter half of the 19th Century, enthusiasm for graphical methods matured, and a variety of developments in statistics, data collection and technology combined to produce a "perfect storm" for data graphics. The result was a qualitatively distinct period that produced works of unparalleled beauty and scope, the likes of which would be hard to duplicate today. We argue that this period deserves to be recognized as the "Golden Age of Statistical Graphics." 
+```
+
+## Quaint and curious volumes of forgotten lore 
+
+## Ages in the history of graphics {#golden-ages}
+
+## Some Golden Ages 
+
+## Prerequisites for the Golden Age 
+
+### Lithography and color printing {-}
+
+### Automatic recording {-}
+
+### Calculation {-}
+
+## Contributions of the Golden Age {#sec:golden-contrib}
+
+### The Graphic vision of Charles Joseph Minard {-}
+
+### Francis Galton's greatest graphical discovery {-}
+
+### Statistical albums {-}
+
+## The Modern Dark Ages 
+
+## Learning more 
+

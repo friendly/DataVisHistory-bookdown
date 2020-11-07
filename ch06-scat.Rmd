@@ -1,0 +1,47 @@
+# The Origin and Development of the Scatterplot {#ch06-scat}
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+Among all the moderns forms of statistical graphics,
+the scatterplot may be considered the most versatile,
+and generally useful invention in the entire history of statistical
+graphics. It is also notable because William Playfair didn't invent it.
+This chapter considers why Playfair was unable to think about such things,
+and it traces the invention of the scatterplot to the eminent astronomer John F. W. Herschel.
+Scatterplots achieved great importance in the work
+of Francis Galton [1822--1911] on the heritability of traits.
+Galton's work, visualized through statistical diagrams,
+became the source of the statistical ideas of correlation and regression and thus most of
+modern statistical methods.
+
+```
+## Early displays that were not scatterplots {#sec:scat-early}
+
+### Johann Lambert {-}
+
+## Why not Playfair? {#sec:why-not-playfair}
+
+## John F. W. Herschel and the orbits of twin stars {#sec:scat-herschel}
+
+### Herschel's graphical impact factor {-}
+
+## Francis Galton and the idea of correlation {#sec:scat-galton}
+
+### Sweet peas and regression toward the mean {-}
+
+### Galton's elliptical insight {-}
+
+### Another asymmetry {-}
+
+## Some remarkable scatterplots {#sec:scat-remarkable}
+
+### The Hertzsprung-Russell diagram {-}
+
+### Inflation and unemployment: The Phillips curve {-}
+
+## Spurious correlations and causation {#sec:scat-spurious}
+
+## Summary and conclusion 
+
+## Learning more 
+

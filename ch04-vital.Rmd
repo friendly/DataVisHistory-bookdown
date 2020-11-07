@@ -1,0 +1,43 @@
+# Vital Statistics: William Farr, John Snow and Cholera {#ch04-vital}
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+
+A short time later, analogous widespread data collection was begun in the United Kingdom, but this
+was in the context of social welfare, poverty, public health and sanitation.
+From these efforts emerged two new heroes of
+data visualization, William Farr and John Snow, who worked independently trying to
+understand the causes of several epidemics of cholera and how the disease could
+be mitigated.
+```
+
+## The General Registrar Office {#sec:general-registrar-office}
+
+## Cholera {#sec:cholera}
+
+## Farr and the miasmatic theory of disease {#sec:farr}
+
+### Farr's diagrams {-}
+
+### Farr's Natural Law of Cholera {-}
+
+### The transcendent effect of water {-}
+
+## John Snow on cholera {#sec:john-snow-on-cholera}
+
+### The Broad Street pump {-}
+
+### The neighborhoods map {-}
+
+## Re-visioning the Broad Street pump {#sec:re-visioning}
+
+## Conclusion: Graphical successes and failures {#sec:conclusions}
+
+### The answer: A bug {-}
+
+### Florence Nightingale's graphical success {-}
+
+### Cholera today {-}
+
+## Learning more 
+

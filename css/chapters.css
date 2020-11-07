@@ -1,0 +1,11 @@
+/* css styles for chapters */
+
+.chapterprelude {
+	color: navy;
+	font-style: italic;
+}
+
+.chaptoc {
+	color: navy;
+	font-style: normal;
+}

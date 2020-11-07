@@ -1,0 +1,19 @@
+# Afterword: Biographical Notes {#ch11-afterword}
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+In this addendum we give some brief biographical details on some of the individuals whose contributions to the history of data visualization are described in earlier chapters, but where the flow of the text made this seem tangential. All of them should be considered heroes in this history. In different ways they advanced the idea that data, shown in a graphical display, could "speak to the eyes" and be understood in ways that numbers and words could not. We relate a number of these principal characters to their place in history and describe some recent historical discoveries of their personal histories.
+```
+
+## Unsung heroes {-}
+
+## Michael Florent van Langren {-}
+
+## William Playfair {-}
+
+## André-Michel Guerry {-}
+
+## Charles Joseph Minard {-}
+
+## W.E.B. Du Bois {-}
+

@@ -1,0 +1,8 @@
+book_filename: "TOGS"
+delete_merged_file: true
+language:
+  label:
+    fig: "Figure "
+    tab: "Table "
+  ui:
+    chapter_name: "Chapter "

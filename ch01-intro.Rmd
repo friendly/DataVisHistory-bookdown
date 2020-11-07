@@ -1,0 +1,38 @@
+# In the Beginning... {#ch01-intro}
+
+> *If you would understand anything, observe its beginning and its development.*
+>
+> Aristotle
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+This chapter is an overview of the larger questions and themes that
+provide a context for the book. We consider the relations among numerical data, evidence for an argument and graphs,
+and then describe some of the pre-history of the visual representation of numbers and the early rise of 
+visualization itself. The story continues to the rise of empirical thinking in philosophy and
+science around the 16th Century and the concomitant
+remarkable development of the visual representation of numbers to communicate quantitative phenomena.
+```
+
+
+
+## Data, evidence and graphs {#sec:data-evidence-and-graphs}
+
+### Graphs: Communication and persuasion {-}
+
+## Words, numbers and pictures {#sec:words-numbers-and-pictures}
+
+### Recording numbers {-}
+
+### The evolution of pictures {-}
+
+### Connecting data with pictures {-}
+
+## Seeing the unexpected {#sec:seeing-the-unexpected}
+
+## The Rise of the Graphic Method and Visual Thinking {#sec:the-rise-of-the-graphic-method}
+
+## A Golden Age {#sec:a-golden-age}
+
+## Learning more {#sec:learning-more}
+

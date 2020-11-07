@@ -1,0 +1,31 @@
+# Why the First Graph Got It Right {#ch02-langren}
+
+```{block, type="chapterprelude"}
+#### Synopsis {-}
+A fundamental and difficult problem in the 17th century was determination of longitude at sea. A variety of methods were tried, but none were very accurate. To demonstrate the problem (and seek patronage from King Philip of Spain), Michael Florent van Langren had the idea to make a graph of historical determinations of the longitude distance from Toledo to Rome, in what is arguably the first graph of statistical data. This chapter shows why this was exactly the right thing to do.
+```
+
+## Early things called "graphs" 
+
+### Later things called "graphs" {-}
+
+## The problem of longitude 
+
+### Show me the money {-}
+
+### Who was van Langren? {-}
+
+## Van Langren's graph 
+
+### Patronage and grantsmanship {-}
+
+### Eyes on the prize {-}
+
+### Claiming priority {-}
+
+### The "secret" of longitude {-}
+
+### Van Langren's legacy {-}
+
+## Learning more 
+
